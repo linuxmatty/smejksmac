@@ -4,7 +4,7 @@ Hned při spuštění systému jste přivítáni dialogem "Welcome to Linux Mint
 
 Část **Desktop Colors** vybízí k přizpůsobení vzhledu; možno změnit styl či barvy. Stiskem tlačítka "Advanced settings..." se lze dostat do nastavení, kde lze např. změnit kurzor myši, vzhled tlačítek, "zaškrtávátek" ap., ikony a vzhled spodního panelu. Mimo jiné zde lze stáhnout motivy třetích stran (karta "Add/Remove" nebo nastavit všemožné chování týkající se vzhledu. Změny se ukládají automaticky.
 
-Část **System Snapshots** se zabývá automatickými tzv. *snapshoty* systému (obraz systému, ze kterého lze obnovit systém takový, jak vypadal ve chvíli pořízení). Ihned po prvním spuštění jsem vytvořil snapshot jménem `2024-03-12 19:19:10`; rovněž jsem nastavil, aby se systémový snapshot dělal jednou týdně a při každém zapnutí počítače. Toto i mnoho jiného lze změnit kliknutím na příslušné tlačítko Launch nebo v programu *Timeshift* a následným zvolením *Settings*.
+Část **System Snapshots** se zabývá automatickými tzv. *snapshoty* systému (obraz systému, ze kterého lze obnovit systém takový, jak vypadal ve chvíli pořízení). Ihned po prvním spuštění jsem vytvořil snapshot jménem `2024-03-12 19:19:10` a po instalaci všech programů snapshot jménem `2024-03-12 23:19:02`; rovněž jsem nastavil, aby se systémový snapshot dělal jednou týdně a při každém zapnutí počítače. Toto i mnoho jiného lze změnit kliknutím na příslušné tlačítko Launch nebo v programu *Timeshift* a následným zvolením *Settings*.
 
 Část **Driver Manager** slouží pro správu systémových ovladačů. Zde není potřeba nic upravovat, neboť jsem již nainstalovat veškeré potřebné ovladače. Program přesto dává na výběr, zda-li má použít ovladač s uzavřeným zdrojovým kódem, nebo zařízení (v tomto případě síťovou kartu) nepoužívat. Ovladač s uzavřeným zdrojovým kódem je nainstalovaný a v provozu.
 
@@ -34,7 +34,7 @@ Do systému jsem nainstaloval následující programy.
 - **Pycharm-Community 2023.3.3** (flatpak)
 - **VLC 3.0.20** (flatpak)
 - **Whatsapp Desktop 1.2.3** (flatpak)
-- **MatLab R2018a** (Wine)
+- (**MatLab R2018a** (Wine))
  
 Spousta dalších aplikací je k instalaci přes program "Software Manager".
 
